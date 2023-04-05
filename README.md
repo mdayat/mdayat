@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Nur Hidayat</h1>
-<h3 align="center">Just a guy who interested in tech</h3>
+<h3 align="center">I'm Just a guy who interested in tech</h3>
 
 - 🔭 I’m currently working at **Furaha Systems**
 
