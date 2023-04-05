@@ -17,16 +17,15 @@
 
 <!-- Dark Mode -->
 <a href="https://github.com/mdayat#gh-dark-mode-only">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mdayat&show_icons=true&count_private=true&theme=github_dark#gh-dark-mode-only" />
+  <img align="center" src="https://github-readme-stats-mdayat.vercel.app/api?username=mdayat&show_icons=true&count_private=true&theme=github_dark#gh-dark-mode-only" />
 </a>
 <a href="https://github.com/mdayat#gh-dark-mode-only">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdayat&layout=compact&theme=github_dark#gh-dark-mode-only" />
+  <img align="center" src="https://github-readme-stats-mdayat.vercel.app/api/top-langs/?username=mdayat&layout=compact&theme=github_dark#gh-dark-mode-only" />
 </a>
-
 <!-- Light Mode -->
 <a href="https://github.com/mdayat#gh-light-mode-only">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mdayat&show_icons=true&count_private=true&theme=default#gh-light-mode-only" />
+  <img align="center" src="https://github-readme-stats-mdayat.vercel.app/api?username=mdayat&show_icons=true&count_private=true&theme=default#gh-light-mode-only" />
 </a>
 <a href="https://github.com/mdayat#gh-light-mode-only">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdayat&layout=compact&theme=default#gh-light-mode-only" />
+  <img align="center" src="https://github-readme-stats-mdayat.vercel.app/api/top-langs/?username=mdayat&layout=compact&theme=default#gh-light-mode-only" />
 </a>
