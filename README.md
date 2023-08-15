@@ -9,10 +9,10 @@
 
 <h2>Connect with me:</h2>
 <p>
-  <a href="https://www.linkedin.com/in/mdayat/" target="_blink">
+  <a href="https://www.linkedin.com/in/mdayat/" target="_blank">
     <img src="./linkedin.svg" alt="LinkedIn Icon">
   </a>
-  <a href="mailto:muhnurdayat@gmail.com" target="_blink">
+  <a href="mailto:muhnurdayat@gmail.com" target="_blank">
     <img src="./gmail.svg" alt="Gmail Icon">
   </a>
 </p>
