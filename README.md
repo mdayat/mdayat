@@ -2,7 +2,6 @@
 <p>I'm Muhammad Nur Hidayat, just a guy who is interested in tech and loves to learn about nutrition and neurology</p>
 
 <ul>
-  <li>Currently working at <a href="https://www.furahasystems.com/" target="_blink">Furaha Systems</a></li>
   <li>Primarily do things related to <strong>Web Development</strong></li>
   <li>Mainly using <strong>Typescript</strong>, but currently learning <strong>Go</strong></li>
 </ul>
