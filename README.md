@@ -1,5 +1,5 @@
 <h2>Hi there!👋</h2>
-<p>I'm Muhammad Nur Hidayat, just a guy who is interested in tech and loves to learn about nutrition and neurology</p>
+<p>I'm Muhammad Nur Hidayat, just a guy who is interested in tech and loves to learn about nutrition and neuroscience</p>
 
 <ul>
   <li>Primarily do things related to <strong>Web Development</strong></li>
