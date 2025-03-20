@@ -2,8 +2,8 @@
 <p>I'm Muhammad Nur Hidayat, just a guy who is interested in tech and loves to learn about nutrition and neuroscience. In my spare time, I write on Medium; please visit via the following link: https://medium.com/@muhnurdayat</p>
 
 <ul>
-  <li>Primarily do things related to <strong>Web Development</strong></li>
-  <li>Mainly using <strong>Typescript</strong>, but currently learning <strong>Go</strong></li>
+  <li>Primarily do things related to <strong>Web Development</strong>, but currently learning <strong>Mobile Development</strong></li>
+  <li>Mainly using <strong>Typescript</strong> and <strong>Go</strong></li>
 </ul>
 
 <h2>Connect with me:</h2>
